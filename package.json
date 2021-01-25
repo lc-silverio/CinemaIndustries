@@ -1,0 +1,22 @@
+{
+  "name": "cinemaindustries",
+  "version": "1.0.0",
+  "description": "projecto para devweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lc-silverio/CinemaIndustries.git"
+  },
+  "author": "grupo 7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lc-silverio/CinemaIndustries/issues"
+  },
+  "homepage": "https://github.com/lc-silverio/CinemaIndustries#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
